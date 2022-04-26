@@ -1,0 +1,15 @@
+.search-inner-wrapper {
+    visibility: collapse !important;
+}
+
+.logo-and-wordmark {
+    position: relative;
+    top: 125px;
+}
+
+.outer-wrapper{
+    background: url(wallpaper3.jpg) !important ;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    pointer-events: none;
+}
